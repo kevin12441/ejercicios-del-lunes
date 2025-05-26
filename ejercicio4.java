@@ -1,4 +1,6 @@
 import java.util.Scanner;
+
+// Ejercicio 4: Ingresar 10 números enteros y mostrar el mayor y el menor de ellos.
 public class ejercicio4 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
